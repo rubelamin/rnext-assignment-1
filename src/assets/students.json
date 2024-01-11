@@ -1,0 +1,184 @@
+{
+	"allStudents": [
+		{
+			"id": 1,
+			"roll": 1,
+			"name": "Mehedi",
+			"grade": "A+",
+			"percentage": "98%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 2,
+			"roll": 2,
+			"name": "Zahirul",
+			"grade": "A",
+			"percentage": "88%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 3,
+			"roll": 3,
+			"name": "Shamsul",
+			"grade": "A",
+			"percentage": "85%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 4,
+			"roll": 4,
+			"name": "Al Amin",
+			"grade": "A",
+			"percentage": "82%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 5,
+			"roll": 5,
+			"name": "Rabiul",
+			"grade": "A+",
+			"percentage": "92%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 6,
+			"roll": 6,
+			"name": "Shuvo",
+			"grade": "A-",
+			"percentage": "78%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 7,
+			"roll": 7,
+			"name": "Priyanka",
+			"grade": "A+",
+			"percentage": "95%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 8,
+			"roll": 8,
+			"name": "Shahin",
+			"grade": "A",
+			"percentage": "87%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 9,
+			"roll": 9,
+			"name": "Roksana",
+			"grade": "A",
+			"percentage": "82%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 10,
+			"roll": 10,
+			"name": "Bashar",
+			"grade": "B",
+			"percentage": "72%",
+			"class": "one",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 11,
+			"roll": 1,
+			"name": "Bokhary",
+			"grade": "A+",
+			"percentage": "98%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 12,
+			"roll": 2,
+			"name": "Abdullah",
+			"grade": "A",
+			"percentage": "88%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 13,
+			"roll": 3,
+			"name": "Arif",
+			"grade": "A",
+			"percentage": "85%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 14,
+			"roll": 4,
+			"name": "Amin",
+			"grade": "A",
+			"percentage": "82%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 15,
+			"roll": 5,
+			"name": "Eva",
+			"grade": "A+",
+			"percentage": "92%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 16,
+			"roll": 6,
+			"name": "Shuvo",
+			"grade": "A-",
+			"percentage": "78%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 17,
+			"roll": 7,
+			"name": "Doly",
+			"grade": "A+",
+			"percentage": "95%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 18,
+			"roll": 8,
+			"name": "Shahinur",
+			"grade": "A",
+			"percentage": "87%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 19,
+			"roll": 9,
+			"name": "Roksana",
+			"grade": "A",
+			"percentage": "82%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		},
+		{
+			"id": 20,
+			"roll": 10,
+			"name": "Biddut",
+			"grade": "B",
+			"percentage": "72%",
+			"class": "two",
+			"avatar": "../../src/assets/avatar.png"
+		}
+	]
+}
