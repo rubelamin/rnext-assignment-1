@@ -16,7 +16,7 @@
 			"grade": "A",
 			"percentage": "88%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/2.png"
 		},
 		{
 			"id": 3,
@@ -25,7 +25,7 @@
 			"grade": "A",
 			"percentage": "85%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/3.png"
 		},
 		{
 			"id": 4,
@@ -34,7 +34,7 @@
 			"grade": "A",
 			"percentage": "82%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/4.png"
 		},
 		{
 			"id": 5,
@@ -43,7 +43,7 @@
 			"grade": "A+",
 			"percentage": "92%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/5.png"
 		},
 		{
 			"id": 6,
@@ -52,7 +52,7 @@
 			"grade": "A-",
 			"percentage": "78%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/6.png"
 		},
 		{
 			"id": 7,
@@ -61,7 +61,7 @@
 			"grade": "A+",
 			"percentage": "95%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/7.png"
 		},
 		{
 			"id": 8,
@@ -70,7 +70,7 @@
 			"grade": "A",
 			"percentage": "87%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/8.png"
 		},
 		{
 			"id": 9,
@@ -79,7 +79,7 @@
 			"grade": "A",
 			"percentage": "82%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/9.png"
 		},
 		{
 			"id": 10,
@@ -88,7 +88,7 @@
 			"grade": "B",
 			"percentage": "72%",
 			"class": "one",
-			"avatar": "/avatar.png"
+			"avatar": "/10.png"
 		},
 		{
 			"id": 11,
@@ -97,7 +97,7 @@
 			"grade": "A+",
 			"percentage": "98%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/11.png"
 		},
 		{
 			"id": 12,
@@ -106,7 +106,7 @@
 			"grade": "A",
 			"percentage": "88%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/12.png"
 		},
 		{
 			"id": 13,
@@ -115,7 +115,7 @@
 			"grade": "A",
 			"percentage": "85%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/13.png"
 		},
 		{
 			"id": 14,
@@ -124,7 +124,7 @@
 			"grade": "A",
 			"percentage": "82%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/14.png"
 		},
 		{
 			"id": 15,
@@ -133,7 +133,7 @@
 			"grade": "A+",
 			"percentage": "92%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/15.png"
 		},
 		{
 			"id": 16,
@@ -142,7 +142,7 @@
 			"grade": "A-",
 			"percentage": "78%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/16.png"
 		},
 		{
 			"id": 17,
@@ -151,7 +151,7 @@
 			"grade": "A+",
 			"percentage": "95%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/17.png"
 		},
 		{
 			"id": 18,
@@ -160,7 +160,7 @@
 			"grade": "A",
 			"percentage": "87%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/18.png"
 		},
 		{
 			"id": 19,
@@ -169,7 +169,7 @@
 			"grade": "A",
 			"percentage": "82%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/19.png"
 		},
 		{
 			"id": 20,
@@ -178,7 +178,7 @@
 			"grade": "B",
 			"percentage": "72%",
 			"class": "two",
-			"avatar": "/avatar.png"
+			"avatar": "/20.png"
 		}
 	]
 }
