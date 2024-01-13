@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit Live URL here [Live Demo](https://rubelamin-rnext-assignment-1.vercel.app/)
 
 Currently, two official plugins are available:
 
